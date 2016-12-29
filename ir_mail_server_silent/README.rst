@@ -1,5 +1,5 @@
 
-Make ir_mail_server silent and improved performance
+Make ir_mail_server silent and improve odoo server performance
 ==========================================================================================
 
 Module that adds customizations to the ir.amil_server module.
